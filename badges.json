@@ -10,6 +10,11 @@
 		"labelColor": "ffffff"
 	},
 	{
+		"name": "android",
+		"link": "https://www.android.com",
+		"labelColor": "000000"
+	},
+	{
 		"name": "angular",
 		"link": "https://angular.io",
 		"labelColor": "ffffff"
@@ -24,6 +29,16 @@
 		"name": "apache",
 		"link": "https://httpd.apache.org",
 		"labelColor": "63225e"
+	},
+	{
+		"name": "appveyor",
+		"link": "https://www.appveyor.com",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "assemblyscript",
+		"link": "https://www.assemblyscript.org",
+		"labelColor": "ffffff"
 	},
 	{
 		"name": "babel",
@@ -57,9 +72,24 @@
 		"labelColor": "90bd51"
 	},
 	{
+		"name": "circleci",
+		"link": "https://circleci.com",
+		"labelColor": "ffffff"
+	},
+	{
 		"name": "clojure",
 		"link": "https://clojure.org",
 		"labelColor": "63b232"
+	},
+	{
+		"name": "codecov",
+		"link": "https://about.codecov.io",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "codeigniter",
+		"link": "https://codeigniter.com",
+		"labelColor": "ffffff"
 	},
 	{
 		"name": "coffeescript",
@@ -83,9 +113,19 @@
 		"labelColor": "02467d"
 	},
 	{
+		"name": "deno",
+		"link": "https://deno.land",
+		"labelColor": "ffffff"
+	},
+	{
 		"name": "django",
 		"link": "https://www.djangoproject.com",
 		"logoColor": "44b78a"
+	},
+	{
+		"name": "digitalocean",
+		"link": "https://www.digitalocean.com",
+		"labelColor": "ffffff"
 	},
 	{
 		"name": "docker",
@@ -104,6 +144,11 @@
 		"name": "elixir",
 		"link": "https://elixir-lang.org",
 		"labelColor": "9580bd"
+	},
+	{
+		"name": "elm",
+		"link": "https://elm-lang.org",
+		"labelColor": "57afe3"
 	},
 	{
 		"name": "ember.js",
@@ -153,9 +198,25 @@
 		"logoColor": "8e4e8c"
 	},
 	{
+		"name": "hasura",
+		"link": "https://hasura.io",
+		"labelColor": "1b2738"
+	},
+	{
 		"name": "haxe",
 		"link": "https://haxe.org",
 		"labelColor": "ffd700"
+	},
+	{
+		"name": "homebrew",
+		"link": "https://brew.sh",
+		"backgroundColor": "f9d094",
+		"labelColor": "2e2a24"
+	},
+	{
+		"name": "insomnia",
+		"link": "https://insomnia.rest",
+		"logoColor": "ffffff"
 	},
 	{
 		"name": "java",
