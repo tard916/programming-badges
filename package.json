@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"description": "A list of badges for programming languages, frameworks, and tools",
 	"private": true,
+	"scripts": {
+		"watch": "nodemon --exec ts-node index.ts -e json"
+	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/vBread/programming-badges.git"
