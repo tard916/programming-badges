@@ -1,0 +1,295 @@
+[
+	{
+		"name": ".net",
+		"link": "https://dotnet.microsoft.com",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "adonisjs",
+		"link": "https://adonisjs.com",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "angular",
+		"link": "https://angular.io",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "ansible",
+		"link": "https://www.ansible.com",
+		"labelColor": "000000",
+		"backgroundColor": "000000"
+	},
+	{
+		"name": "apache",
+		"link": "https://httpd.apache.org",
+		"labelColor": "63225e"
+	},
+	{
+		"name": "babel",
+		"link": "https://babeljs.io",
+		"labelColor": "323230"
+	},
+	{
+		"name": "bootstrap",
+		"link": "https://getbootstrap.com",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "bower",
+		"link": "https://bower.io",
+		"labelColor": "ffcc2f"
+	},
+	{
+		"name": "c++",
+		"link": "https://en.wikipedia.org/wiki/C%2B%2B",
+		"logoColor": "6295cb",
+		"labelColor": "01427d"
+	},
+	{
+		"name": "cakephp",
+		"link": "https://cakephp.org",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "cassandra",
+		"link": "https://cassandra.apache.org",
+		"labelColor": "90bd51"
+	},
+	{
+		"name": "clojure",
+		"link": "https://clojure.org",
+		"labelColor": "63b232"
+	},
+	{
+		"name": "coffeescript",
+		"link": "https://coffeescript.org",
+		"labelColor": "3f2725",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "crystal",
+		"link": "https://crystal-lang.org",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "css",
+		"link": "https://en.wikipedia.org/wiki/CSS",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "dart",
+		"link": "https://dart.dev",
+		"labelColor": "02467d"
+	},
+	{
+		"name": "django",
+		"link": "https://www.djangoproject.com",
+		"logoColor": "44b78a"
+	},
+	{
+		"name": "docker",
+		"link": "https://www.docker.com",
+		"labelColor": "369cee",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "electron",
+		"link": "https://www.electronjs.org",
+		"backgroundColor": "2e3241",
+		"labelColor": "2e3241",
+		"logoColor": "a0e9f8"
+	},
+	{
+		"name": "elixir",
+		"link": "https://elixir-lang.org",
+		"labelColor": "9580bd"
+	},
+	{
+		"name": "ember.js",
+		"link": "https://emberjs.com",
+		"labelColor": "1d1e23"
+	},
+	{
+		"name": "erlang",
+		"link": "https://www.erlang.org",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "eslint",
+		"link": "https://eslint.org",
+		"logoColor": "8080f2"
+	},
+	{
+		"name": "git",
+		"link": "https://git-scm.com",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "github",
+		"link": "https://github.com",
+		"backgroundColor": "ffffff",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "go",
+		"link": "https://golang.org",
+		"labelColor": "7fd5eb"
+	},
+	{
+		"name": "grafana",
+		"link": "https://grafana.com",
+		"labelColor": "464646"
+	},
+	{
+		"name": "graphql",
+		"link": "https://graphql.org",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "haskell",
+		"link": "https://www.haskell.org",
+		"labelColor": "453a61",
+		"logoColor": "8e4e8c"
+	},
+	{
+		"name": "haxe",
+		"link": "https://haxe.org",
+		"labelColor": "ffd700"
+	},
+	{
+		"name": "java",
+		"link": "https://www.java.com/en",
+		"labelColor": "f5971f"
+	},
+	{
+		"name": "javascript",
+		"link": "https://en.wikipedia.org/wiki/JavaScript",
+		"logoColor": "333333"
+	},
+	{
+		"name": "jest",
+		"link": "https://jestjs.io",
+		"labelColor": "ffffff",
+		"logoColor": "C21325"
+	},
+	{
+		"name": "julia",
+		"link": "https://julialang.org",
+		"labelColor": "389827",
+		"logoColor": "4163d9"
+	},
+	{
+		"name": "kotlin",
+		"link": "https://kotlinlang.org",
+		"labelColor": "34495E"
+	},
+	{
+		"name": "lua",
+		"link": "http://www.lua.org",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "markdown",
+		"link": "https://www.markdownguide.org",
+		"backgroundColor": "ffffff",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "mocha",
+		"link": "https://mochajs.org",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "nest",
+		"link": "https://nestjs.com",
+		"labelColor": "191919"
+	},
+	{
+		"name": "nim",
+		"link": "https://nim-lang.org",
+		"labelColor": "161920"
+	},
+	{
+		"name": "node.js",
+		"link": "https://nodejs.org",
+		"labelColor": "1e2122"
+	},
+	{
+		"name": "npm",
+		"link": "https://www.npmjs.com"
+	},
+	{
+		"name": "php",
+		"link": "https://www.php.net",
+		"labelColor": "212433"
+	},
+	{
+		"name": "postcss",
+		"link": "https://postcss.org",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "postgresql",
+		"link": "https://www.postgresql.org",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "purescript",
+		"link": "https://www.purescript.org",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "python",
+		"link": "https://www.python.org",
+		"labelColor": "FFD43B"
+	},
+	{
+		"name": "react",
+		"link": "https://reactjs.org",
+		"labelColor": "20232A"
+	},
+	{
+		"name": "ruby",
+		"link": "https://www.ruby-lang.org",
+		"labelColor": "fad3a1"
+	},
+	{
+		"name": "rust",
+		"link": "https://www.rust-lang.org",
+		"backgroundColor": "ffffff",
+		"labelColor": "ffffff"
+	},
+	{
+		"name": "sass",
+		"link": "https://sass-lang.com",
+		"labelColor": "be3f80",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "scala",
+		"link": "https://www.scala-lang.org",
+		"labelColor": "002b36"
+	},
+	{
+		"name": "swift",
+		"link": "https://developer.apple.com/swift",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "typescript",
+		"link": "https://www.typescriptlang.org",
+		"logoColor": "ffffff"
+	},
+	{
+		"name": "vue.js",
+		"link": "https://v3.vuejs.org",
+		"labelColor": "34495E"
+	},
+	{
+		"name": "webpack",
+		"link": "https://webpack.js.org",
+		"backgroundColor": "529ac7",
+		"logoColor": "226ea9"
+	}
+]

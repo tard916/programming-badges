@@ -1,117 +1,109 @@
 # Programming Badges
 
-<!-- markdownlint-disable MD033-->
+[![.NET]](https://dotnet.microsoft.com ".NET")  
+[![AdonisJS]](https://adonisjs.com "AdonisJS")  
+[![Angular]](https://angular.io "Angular")  
+[![Ansible]](https://www.ansible.com "Ansible")  
+[![Apache]](https://httpd.apache.org "Apache")  
+[![Babel]](https://babeljs.io "Babel")  
+[![Bootstrap]](https://getbootstrap.com "Bootstrap")  
+[![Bower]](https://bower.io "Bower")  
+[![C++]](https://en.wikipedia.org/wiki/C%2B%2B "C++")  
+[![CakePHP]](https://cakephp.org "CakePHP")  
+[![Clojure]](https://clojure.org "Clojure")  
+[![CoffeeScript]](https://coffeescript.org "CoffeeScript")  
+[![Crystal]](https://crystal-lang.org "Crystal")  
+[![Dart]](https://dart.dev "Dart")  
+[![Django]](https://www.djangoproject.com "Django")  
+[![Docker]](https://www.docker.com "Docker")  
+[![Electron]](https://www.electronjs.org "Electron")  
+[![Elixir]](https://elixir-lang.org "Elixir")  
+[![Ember.js]](https://emberjs.com "Ember.js")  
+[![Erlang]](https://www.erlang.org "Erlang")  
+[![ESLint]](https://eslint.org "ESLint")  
+[![Git]](https://git-scm.com "Git")  
+[![GitHub]](https://github.com "GitHub")  
+[![Go]](https://golang.org "Go")  
+[![Grafana]](https://grafana.com "Grafana")  
+[![GraphQL]](https://graphql.org "GraphQL")  
+[![Haskell]](https://www.haskell.org "Haskell")  
+[![Haxe]](https://haxe.org "Haxe")  
+[![Java]](https://www.java.com/en "Java")  
+[![JavaScript]](https://en.wikipedia.org/wiki/JavaScript "JavaScript")  
+[![Jest]](https://jestjs.io "Jest")  
+[![Julia]](https://julialang.org "Julia")  
+[![Kotlin]](https://kotlinlang.org "Kotlin")  
+[![Lua]](http://www.lua.org "Lua")  
+[![Markdown]](https://www.markdownguide.org "Markdown")  
+[![Mocha]](https://mochajs.org "Mocha")  
+[![Nim]](https://nim-lang.org "Nim")  
+[![Node.js]](https://nodejs.org "Node.js")  
+[![npm]](https://www.npmjs.com "npm")  
+[![PHP]](https://www.php.net "PHP")  
+[![PostCSS]](https://postcss.org "PostCSS")  
+[![PostgreSQL]](https://www.postgresql.org "PostgreSQL")  
+[![PureScript]](https://www.purescript.org "PureScript")  
+[![Python]](https://www.python.org "Python")  
+[![React]](https://reactjs.org "React")  
+[![Ruby]](https://www.ruby-lang.org "Ruby")  
+[![Rust]](https://www.rust-lang.org "Rust")  
+[![Sass]](https://sass-lang.com "Sass")  
+[![Scala]](https://www.scala-lang.org "Scala")  
+[![Swift]](https://developer.apple.com/swift "Swift")  
+[![TypeScript]](https://www.typescriptlang.org "TypeScript")  
+[![Vue.js]](https://v3.vuejs.org "Vue.js")  
+[![Webpack]](https://webpack.js.org "Webpack")
 
-[![.net]](https://dotnet.microsoft.com/)<br>
-[![adonisjs]](https://adonisjs.com/)<br>
-[![angular]](https://angular.io/)<br>
-[![ansible]](https://www.ansible.com/)<br>
-[![apache]](https://httpd.apache.org/)<br>
-[![babel]](https://babeljs.io/)<br>
-[![bootstrap]](https://getbootstrap.com/)<br>
-[![bower]](https://bower.io/)<br>
-[![c++]](https://en.wikipedia.org/wiki/C%2B%2B)<br>
-[![cakephp]](https://cakephp.org/)<br>
-[![cassandra]](https://cassandra.apache.org/)<br>
-[![clojure]](https://clojure.org/)<br>
-[![coffeescript]](https://coffeescript.org/)<br>
-[![crystal]](https://crystal-lang.org/)<br>
-[![css]](https://en.wikipedia.org/wiki/CSS)<br>
-[![dart]](https://dart.dev/)<br>
-[![django]](https://www.djangoproject.com/)<br>
-[![docker]](https://www.docker.com/)<br>
-[![electron]](https://www.electronjs.org/)<br>
-[![elixir]](https://elixir-lang.org/)<br>
-[![ember.js]](https://emberjs.com/)<br>
-[![erlang]](https://www.erlang.org/)<br>
-[![eslint]](https://eslint.org/)<br>
-[![git]](https://git-scm.com/)<br>
-[![github]](https://github.com/)<br>
-[![go]](https://golang.org/)<br>
-[![grafana]](https://grafana.com/)<br>
-[![graphql]](https://graphql.org/)<br>
-[![haskell]](https://www.haskell.org/)<br>
-[![haxe]](https://haxe.org/)<br>
-[![java]](https://www.java.com/en/)<br>
-[![javascript]](https://en.wikipedia.org/wiki/JavaScript)<br>
-[![jest]](https://jestjs.io/)<br>
-[![julia]](https://julialang.org/)<br>
-[![kotlin]](https://kotlinlang.org/)<br>
-[![lua]](http://www.lua.org/)<br>
-[![markdown]](https://www.markdownguide.org/)<br>
-[![mocha]](https://mochajs.org/)<br>
-[![nest]](https://nestjs.com/)<br>
-[![nim]](https://nim-lang.org/)<br>
-[![node.js]](https://nodejs.org/)<br>
-[![npm]](https://www.npmjs.com/)<br>
-[![php]](https://www.php.net/)<br>
-[![postcss]](https://postcss.org/)<br>
-[![postgresql]](https://www.postgresql.org/)<br>
-[![purescript]](https://www.purescript.org/)<br>
-[![python]](https://www.python.org/)<br>
-[![react]](https://reactjs.org/)<br>
-[![ruby]](https://www.ruby-lang.org/en/)<br>
-[![rust]](https://www.rust-lang.org/)<br>
-[![sass]](https://sass-lang.com/)<br>
-[![scala]](https://www.scala-lang.org/)<br>
-[![swift]](https://developer.apple.com/swift/)<br>
-[![typescript]](https://www.typescriptlang.org/)<br>
-[![vue.js]](https://v3.vuejs.org/)<br>
-[![webpack]](https://webpack.js.org/)<br>
-
-[.net]: https://img.shields.io/badge/.net-5c2d91?style=for-the-badge&labelColor=5c2d91&logo=.net
-[adonisjs]: https://img.shields.io/badge/adonis-220052?style=for-the-badge&labelColor=white&logoColor=220052&logo=adonisjs
-[angular]: https://img.shields.io/badge/angular-dd0031?style=for-the-badge&labelColor=white&logoColor=dd0031&logo=angular
-[ansible]: https://img.shields.io/badge/ansible-black?style=for-the-badge&labelColor=black&logoColor=ee0000&logo=ansible
-[apache]: https://img.shields.io/badge/apache-d22128?style=for-the-badge&labelColor=63225e&logoColor=d22128&logo=apache
-[babel]: https://img.shields.io/badge/babel-f9dc3e?style=for-the-badge&labelColor=323230&logoColor=f9dc3e&logo=babel
-[bootstrap]: https://img.shields.io/badge/bootstrap-7a51b3?style=for-the-badge&labelColor=7a51b3&logoColor=white&logo=bootstrap
-[bower]: https://img.shields.io/badge/bower-ef5734?style=for-the-badge&labelColor=ffcc2f&logoColor=ef5734&logo=bower
-[c++]: https://img.shields.io/badge/c++-00599c?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=c%2B%2B
-[cakephp]: https://img.shields.io/badge/cakephp-d33c43?style=for-the-badge&labelColor=d33c43&logoColor=white&logo=cakephp
-[cassandra]: https://img.shields.io/badge/cassandra-1287b1?style=for-the-badge&labelColor=90bd51&logoColor=1287b1&logo=apache-cassandra
-[clojure]: https://img.shields.io/badge/clojure-5881d8?style=for-the-badge&labelColor=63b232&logoColor=5881d8&logo=clojure
-[coffeescript]: https://img.shields.io/badge/coffeescript-2f2625?style=for-the-badge&labelColor=3f2725&logo=coffeescript
-[crystal]: https://img.shields.io/badge/crystal-000000?style=for-the-badge&labelColor=ffffff&&logoColor=000000&logo=crystal
-[css]: https://img.shields.io/badge/css-1572b6?style=for-the-badge&labelColor=white&logoColor=1572b6&logo=css3
-[dart]: https://img.shields.io/badge/dart-02467d?style=for-the-badge&labelColor=0175c2&logoColor=02467d&logo=dart
-[django]: https://img.shields.io/badge/django-092e20?style=for-the-badge&labelColor=092e20&logoColor=44b78a&logo=django
-[docker]: https://img.shields.io/badge/docker-2496ed?style=for-the-badge&labelColor=369cee&logoColor=white&logo=docker
-[electron]: https://img.shields.io/badge/electron-2e3241?style=for-the-badge&labelColor=2e3241&logoColor=a0e9f8&logo=electron
-[elixir]: https://img.shields.io/badge/elixir-4b275f?style=for-the-badge&labelColor=9580bd&logoColor=4b275f&logo=elixir
-[ember.js]: https://img.shields.io/badge/ember.js-e04e39?style=for-the-badge&labelColor=1d1e23&logoColor=e04e39&logo=ember.js
-[erlang]: https://img.shields.io/badge/erlang-a90533?style=for-the-badge&labelColor=a90533&logoColor=white&logo=erlang
-[eslint]: https://img.shields.io/badge/eslint-4b32c3?style=for-the-badge&labelColor=4b32c3&logoColor=8080f2&logo=eslint
-[git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&labelColor=F05032&logoColor=ffffff&logo=git
-[github]: https://img.shields.io/badge/github-ffffff?style=for-the-badge&labelColor=181717&logoColor=ffffff&logo=github
-[go]: https://img.shields.io/badge/go-00add8?style=for-the-badge&labelColor=7fd5eb&logo=go
-[grafana]: https://img.shields.io/badge/grafana-F46800?style=for-the-badge&labelColor=464646&logoColor=F46800&logo=grafana
-[graphql]: https://img.shields.io/badge/graphql-E10098?style=for-the-badge&labelColor=white&logoColor=E10098&logo=graphql
-[haskell]: https://img.shields.io/badge/haskell-5d4f85?style=for-the-badge&labelColor=453a61&logoColor=8e4e8c&logo=haskell
-[haxe]: https://img.shields.io/badge/haxe-ea8220?style=for-the-badge&labelColor=gold&logo=haxe
-[java]: https://img.shields.io/badge/java-f5971f?style=for-the-badge&labelColor=007396&logoColor=f5971f&logo=java
-[javascript]: https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&labelColor=f7df1e&logoColor=333333&logo=javascript
-[jest]: https://img.shields.io/badge/jest-42c213?style=for-the-badge&labelColor=white&logoColor=C21325&logo=jest
-[julia]: https://img.shields.io/badge/julia-9558b2?style=for-the-badge&labelColor=389827&logoColor=4163d9&logo=julia
-[kotlin]: https://img.shields.io/badge/kotlin-0095d5?style=for-the-badge&labelColor=34495E&logoColor=0095d5&logo=kotlin
-[lua]: https://img.shields.io/badge/lua-2c2d72?style=for-the-badge&labelColor=white&logoColor=2c2d72&logo=lua
-[markdown]: https://img.shields.io/badge/markdown-white?style=for-the-badge&labelColor=white&logoColor=black&logo=markdown
-[mocha]: https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&labelColor=white&logoColor=8D6748&logo=mocha
-[nest]: https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&labelColor=191919&logoColor=E0234E&logo=nestjs
-[nim]: https://img.shields.io/badge/nim-ffe953?style=for-the-badge&labelColor=161920&logoColor=ffe953&logo=nim
-[node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&labelColor=1e2122&logo=node.js
-[npm]: https://img.shields.io/badge/npm-cb3837?style=for-the-badge&labelColor=cb3837&logo=npm
-[php]: https://img.shields.io/badge/php-777bb4?style=for-the-badge&labelColor=212433&logo=php
-[postcss]: https://img.shields.io/badge/postcss-dd3a0a?style=for-the-badge&labelColor=dd3a0a&logo=postcss
-[postgresql]: https://img.shields.io/badge/postgresql-336791?style=for-the-badge&labelColor=white&logoColor=336791&logo=postgresql
-[purescript]: https://img.shields.io/badge/purescript-1e222d?style=for-the-badge&labelColor=1e222d&logo=purescript
-[python]: https://img.shields.io/badge/python-3776ab?style=for-the-badge&labelColor=FFD43B&logoColor=3776ab&logo=python
-[react]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&labelColor=20232A&logo=react
-[ruby]: https://img.shields.io/badge/ruby-cc342d?style=for-the-badge&labelColor=fad3a1&logoColor=cc342d&logo=ruby
-[rust]: https://img.shields.io/badge/rust-white?style=for-the-badge&labelColor=white&logoColor=black&logo=rust
-[sass]: https://img.shields.io/badge/sass-cc6699?style=for-the-badge&labelColor=be3f80&logoColor=white&logo=sass
-[scala]: https://img.shields.io/badge/scala-dc322f?style=for-the-badge&labelColor=002b36&logoColor=dc322f&logo=scala
-[swift]: https://img.shields.io/badge/swift-fa7343?style=for-the-badge&labelColor=fa7343&logoColor=white&logo=swift
-[typescript]: https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&labelColor=3178c6&logoColor=white&logo=typescript
-[vue.js]: https://img.shields.io/badge/vue.js-4fc08d?style=for-the-badge&labelColor=34495E&logo=vue.js
-[webpack]: https://img.shields.io/badge/webpack-529ac7?style=for-the-badge&labelColor=8dd6f9&logoColor=226ea9&logo=webpack
+[.NET]: https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&labelColor=512BD4&logoColor=ffffff&logo=.NET
+[AdonisJS]: https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&labelColor=ffffff&logoColor=220052&logo=AdonisJS
+[Angular]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&labelColor=ffffff&logoColor=DD0031&logo=Angular
+[Ansible]: https://img.shields.io/badge/Ansible-000000?style=for-the-badge&labelColor=000000&logoColor=EE0000&logo=Ansible
+[Apache]: https://img.shields.io/badge/Apache-D22128?style=for-the-badge&labelColor=63225e&logoColor=D22128&logo=Apache
+[Babel]: https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&labelColor=323230&logoColor=F9DC3E&logo=Babel
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=7952B3&logoColor=ffffff&logo=Bootstrap
+[Bower]: https://img.shields.io/badge/Bower-EF5734?style=for-the-badge&labelColor=ffcc2f&logoColor=EF5734&logo=Bower
+[C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=01427d&logoColor=6295cb&logo=C%2B%2B
+[CakePHP]: https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&labelColor=ffffff&logoColor=D33C43&logo=CakePHP
+[Clojure]: https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&labelColor=63b232&logoColor=5881D8&logo=Clojure
+[CoffeeScript]: https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&labelColor=3f2725&logoColor=ffffff&logo=CoffeeScript
+[Crystal]: https://img.shields.io/badge/Crystal-000000?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=Crystal
+[Dart]: https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=02467d&logoColor=0175C2&logo=Dart
+[Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=092E20&logoColor=44b78a&logo=Django
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=369cee&logoColor=ffffff&logo=Docker
+[Electron]: https://img.shields.io/badge/Electron-2e3241?style=for-the-badge&labelColor=2e3241&logoColor=a0e9f8&logo=Electron
+[Elixir]: https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&labelColor=9580bd&logoColor=4B275F&logo=Elixir
+[Ember.js]: https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&labelColor=1d1e23&logoColor=E04E39&logo=Ember.js
+[Erlang]: https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&labelColor=A90533&logoColor=ffffff&logo=Erlang
+[ESLint]: https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&labelColor=4B32C3&logoColor=8080f2&logo=ESLint
+[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=F05032&logoColor=ffffff&logo=Git
+[GitHub]: https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&labelColor=181717&logoColor=ffffff&logo=GitHub
+[Go]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&labelColor=7fd5eb&logoColor=00ADD8&logo=Go
+[Grafana]: https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&labelColor=464646&logoColor=F46800&logo=Grafana
+[GraphQL]: https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&labelColor=ffffff&logoColor=E10098&logo=GraphQL
+[Haskell]: https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&labelColor=453a61&logoColor=8e4e8c&logo=Haskell
+[Haxe]: https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&labelColor=ffd700&logoColor=EA8220&logo=Haxe
+[Java]: https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=f5971f&logoColor=007396&logo=Java
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=F7DF1E&logoColor=333333&logo=JavaScript
+[Jest]: https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=ffffff&logoColor=C21325&logo=Jest
+[Julia]: https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&labelColor=389827&logoColor=4163d9&logo=Julia
+[Kotlin]: https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&labelColor=34495E&logoColor=0095D5&logo=Kotlin
+[Lua]: https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&labelColor=ffffff&logoColor=2C2D72&logo=Lua
+[Markdown]: https://img.shields.io/badge/Markdown-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=Markdown
+[Mocha]: https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&labelColor=ffffff&logoColor=8D6748&logo=Mocha
+[Nim]: https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&labelColor=161920&logoColor=FFE953&logo=Nim
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=1e2122&logoColor=339933&logo=Node.js
+[npm]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&labelColor=CB3837&logoColor=CB3837&logo=npm
+[PHP]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=212433&logoColor=777BB4&logo=PHP
+[PostCSS]: https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&labelColor=DD3A0A&logoColor=ffffff&logo=PostCSS
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&labelColor=ffffff&logoColor=336791&logo=PostgreSQL
+[PureScript]: https://img.shields.io/badge/PureScript-14161A?style=for-the-badge&labelColor=14161A&logoColor=ffffff&logo=PureScript
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=Python
+[React]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=20232A&logoColor=61DAFB&logo=React
+[Ruby]: https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&labelColor=fad3a1&logoColor=CC342D&logo=Ruby
+[Rust]: https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&labelColor=ffffff&logoColor=000000&logo=Rust
+[Sass]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=be3f80&logoColor=ffffff&logo=Sass
+[Scala]: https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&labelColor=002b36&logoColor=DC322F&logo=Scala
+[Swift]: https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&labelColor=FA7343&logoColor=ffffff&logo=Swift
+[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=3178C6&logoColor=ffffff&logo=TypeScript
+[Vue.js]: https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&labelColor=34495E&logoColor=4FC08D&logo=Vue.js
+[Webpack]: https://img.shields.io/badge/Webpack-529ac7?style=for-the-badge&labelColor=8DD6F9&logoColor=226ea9&logo=Webpack

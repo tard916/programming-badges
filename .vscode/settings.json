@@ -1,0 +1,41 @@
+{
+	"json.schemas": [
+		{
+			"fileMatch": [
+				"badges.json"
+			],
+			"schema": {
+				"type": "array",
+				"items": {
+					"type": "object",
+					"properties": {
+						"name": {
+							"type": "string",
+							"pattern": "^.+$"
+						},
+						"link": {
+							"type": "string",
+							"pattern": "^https?://.+(?<!/)$"
+						},
+						"logoColor": {
+							"type": "string",
+							"pattern": "^[a-fA-F\\d]{6}$"
+						},
+						"labelColor": {
+							"type": "string",
+							"pattern": "^[a-fA-F\\d]{6}$"
+						},
+						"backgroundColor": {
+							"type": "string",
+							"pattern": "^[a-fA-F\\d]{6}$"
+						}
+					},
+					"required": [
+						"name",
+						"link"
+					]
+				}
+			}
+		}
+	]
+}
