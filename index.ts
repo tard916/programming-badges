@@ -10,14 +10,12 @@ for (const badge of data) {
 	const icon = get(badge.name);
 	if (!icon) continue;
 
-	const sanitize = (sep: string) => icon.title.split(' ').join(sep);
-
-	const badgeURL = `${url}/${sanitize('_')}-${badge.backgroundColor ?? icon.hex}?`;
+	const badgeURL = `${url}/${icon.title.split(' ').join('_')}-${badge.backgroundColor ?? icon.hex}?`;
 	const query = stringify({
 		style: 'for-the-badge',
 		labelColor: badge.labelColor ?? icon.hex,
 		logoColor: badge.logoColor ?? icon.hex,
-		logo: sanitize('-')
+		logo: icon.slug
 	});
 
 	refs.push(`[${icon.title}]: ${badgeURL + query}`);
