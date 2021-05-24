@@ -18,9 +18,9 @@
 	},
 	"homepage": "https://github.com/vBread/programming-badges#readme",
 	"devDependencies": {
-		"@types/node": "^15.0.1",
+		"@types/node": "^15.6.0",
 		"@types/simple-icons": "^4.17.0",
-		"simple-icons": "^4.21.0",
+		"simple-icons": "^4.25.0",
 		"typescript": "^4.2.4"
 	}
 }
