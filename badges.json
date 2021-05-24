@@ -118,6 +118,11 @@
 		"labelColor": "ffffff"
 	},
 	{
+		"name": "discord",
+		"link": "https://discord.com",
+		"logoColor": "ffffff"
+	},
+	{
 		"name": "django",
 		"link": "https://www.djangoproject.com",
 		"logoColor": "44b78a"
@@ -177,6 +182,11 @@
 		"logoColor": "ffffff"
 	},
 	{
+		"name": "gitkraken",
+		"link": "https://www.gitkraken.com",
+		"labelColor": "1A1A2C"
+	},
+	{
 		"name": "go",
 		"link": "https://golang.org",
 		"labelColor": "7fd5eb"
@@ -226,7 +236,7 @@
 	{
 		"name": "javascript",
 		"link": "https://en.wikipedia.org/wiki/JavaScript",
-		"logoColor": "333333"
+		"labelColor": "ffffff"
 	},
 	{
 		"name": "jest",
@@ -267,6 +277,12 @@
 		"labelColor": "191919"
 	},
 	{
+		"name": "next.js",
+		"link": "https://nextjs.org",
+		"backgroundColor": "ffffff",
+		"labelColor": "ffffff"
+	},
+	{
 		"name": "nim",
 		"link": "https://nim-lang.org",
 		"labelColor": "161920"
@@ -279,6 +295,16 @@
 	{
 		"name": "npm",
 		"link": "https://www.npmjs.com"
+	},
+	{
+		"name": "nuxt.js",
+		"link": "https://nuxtjs.org",
+		"labelColor": "2f495e"
+	},
+	{
+		"name": "perl",
+		"link": "https://www.perl.org",
+		"labelColor": "ffffff"
 	},
 	{
 		"name": "php",
@@ -299,6 +325,11 @@
 		"name": "purescript",
 		"link": "https://www.purescript.org",
 		"logoColor": "ffffff"
+	},
+	{
+		"name": "powershell",
+		"link": "https://docs.microsoft.com/powershell",
+		"labelColor": "ffffff"
 	},
 	{
 		"name": "python",
@@ -340,12 +371,17 @@
 	{
 		"name": "typescript",
 		"link": "https://www.typescriptlang.org",
-		"logoColor": "ffffff"
+		"labelColor": "ffffff"
 	},
 	{
 		"name": "vue.js",
 		"link": "https://v3.vuejs.org",
 		"labelColor": "34495E"
+	},
+	{
+		"name": "vuetify",
+		"link": "https://vuetifyjs.com",
+		"labelColor": "aeddff"
 	},
 	{
 		"name": "webpack",
